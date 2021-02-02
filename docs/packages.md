@@ -7,4 +7,6 @@ npm install --save-dev typescript @types/react @types/node
 npm install tailwindcss@latest postcss@latest autoprefixer@latest
 # document 의 head 를 변경할 수 있게 해준다.
 npm install react-helmet-async @types/react-helmet-async
+# font awesome
+npm install --save @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome @fortawesome/free-brands-svg-icons @fortawesome/free-regular-svg-icons
 ```
